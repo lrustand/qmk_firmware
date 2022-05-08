@@ -3,7 +3,7 @@
   "identifier": "0x1256",
   "url": "https://github.com/jpconstantineau/ErgoTravel",
   "maintainer": "qmk",
-  "bootloader": "caterina",
+  "bootloader": "qmk-dfu",
   "processor": "atmega32u4",
   "layouts": {
     "LAYOUT": {
